@@ -5,7 +5,8 @@
  *
  * description: Print the sum of even fibo
  *
- * Return: Always 0 (Success)*/
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
