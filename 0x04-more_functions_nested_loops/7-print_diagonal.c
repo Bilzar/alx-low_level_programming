@@ -5,6 +5,7 @@
  *
  * @n: number of input of line that ll be printed
  *
+ * Return: no return
  */
 
 void print_diagonal(int n)
@@ -19,7 +20,7 @@ void print_diagonal(int n)
 		{
 			_putchar(' ');
 		}
-		_putchar('\\');
+		_putchar('\');
 		_putchar('\n');
 	}
 }
