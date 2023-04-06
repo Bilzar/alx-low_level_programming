@@ -30,7 +30,7 @@ int check_prime(int n, int i)
 		return (0);
 
 	if ((n / i) < i)
-		retrurn (1);
+		return (1);
 
 	return (check_prime(n, i + 1));
 }
